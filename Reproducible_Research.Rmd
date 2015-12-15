@@ -9,7 +9,7 @@ output: html_document
 # Analyzing FitBit Data
 Sarah Ernst 
 ###About
-The purpose of the project was to answer questions using data collected from a [FitBit](http://en.wikipedia.org/wiki/Fitbit).
+The purpose of the project: answer questions using data collected from a [FitBit](http://en.wikipedia.org/wiki/Fitbit).
 
 
 ##Synopsis
